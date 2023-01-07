@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24Êœ | Candy Candy" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Candy Candy
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30506
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | La Casa de Papel" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | La Casa de Papel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31232
 #EXTINF:-1 tvg-id="" tvg-name="24Êœ | Dragon Ball Z" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Dragon Ball Z
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30508
 #EXTINF:-1 tvg-id="" tvg-name="24Êœ | El Chapulin Colorado" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | El Chapulin Colorado
@@ -9,9 +11,1105 @@ http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30641
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30500
 #EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saw" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saw
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39574
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Mazinger Z" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Mazinger Z
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30547
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Super Campeones" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Super Campeones
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31192
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="Ê™Ê€ | Sportv 3 Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportv3_br.png" group-title="BRASIL",Ê™Ê€ | Sportv 3 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30309
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="á´„ÊŸ | TVN Ò“Êœá´…" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn_m.png" group-title="CHILE",á´„ÊŸ | TVN Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30302
+#EXTINF:-1 tvg-id="CO - A&E Mundo HD" tvg-name="á´„ÉªÉ´á´‡ | A&E" tvg-logo="http://209.126.82.213/Logos/ae_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | A&E
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29795
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="á´„ÉªÉ´á´‡ | AMC Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/amc-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AMC Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41007
 #EXTINF:-1 tvg-id="AXNMX" tvg-name="á´„ÉªÉ´á´‡ | AXN Ò“Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/axn_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AXN Ò“Êœá´… (á´x)
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30391
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="á´„ÉªÉ´á´‡ | AXN Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/axn_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AXN Ò“Êœá´…
 http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41008
 #EXTINF:-1 tvg-id="AXNAndes.us" tvg-name="á´„ÉªÉ´á´‡ | AXN" tvg-logo="http://209.126.82.213/Logos/axn_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AXN
-http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/2979
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29797
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="á´„ÉªÉ´á´‡ | Cine Dinamita Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/cine_dinamita.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cine Dinamita Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30393
+#EXTINF:-1 tvg-id="CinelatinoCO" tvg-name="á´„ÉªÉ´á´‡ | Cinelatino (á´„á´)" tvg-logo="http://209.126.82.213/Logos/cine_latino_estados_unidos.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinelatino (á´„á´)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30392
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="á´„ÉªÉ´á´‡ | Cinemax Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cinemax_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinemax Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41010
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="á´„ÉªÉ´á´‡ | DHE Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/dhe.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | DHE Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30253
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="á´„ÉªÉ´á´‡ | Europa Europa Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/europa-europa-uk.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Europa Europa Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32886
+#EXTINF:-1 tvg-id="AMCPanregional.us" tvg-name="á´„ÉªÉ´á´‡ | Star Channel Êœá´…" tvg-logo="http://209.126.82.213/Logos/star-channel-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Star Channel Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41013
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Star Channel" tvg-logo="http://209.126.82.213/Logos/star-channel-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Star Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29814
+#EXTINF:-1 tvg-id="UniversalReality" tvg-name="á´„ÉªÉ´á´‡ | Universal Reality Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-reality-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Reality Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41015
+#EXTINF:-1 tvg-id="UniversalReality" tvg-name="á´„ÉªÉ´á´‡ | Universal Reality" tvg-logo="http://209.126.82.213/Logos/universal-reality-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Reality
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30395
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | Lifetime Êœá´…" tvg-logo="http://209.126.82.213/Logos/lifetime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Lifetime Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29816
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="á´„ÉªÉ´á´‡ | Golden Edge Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/golden-edge-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Edge Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29823
+#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="á´„ÉªÉ´á´‡ | Golden Premier " tvg-logo="http://209.126.82.213/Logos/golden-premier-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Premier 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30448
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/hbo_latinoamerica_hd.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29917
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO 2 Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo2_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO 2 Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29874
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO 2 Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo2_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO 2 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41021
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Family Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_family_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Family Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41022
+#EXTINF:-1 tvg-id="HBOMX" tvg-name="á´„ÉªÉ´á´‡ | HBO Ò“Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/hbo_latinoamerica_hd.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Ò“Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30254
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Mundi" tvg-logo="http://209.126.82.213/Logos/hbo-mundi-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Mundi
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31287
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Plus" tvg-logo="http://209.126.82.213/Logos/hbo-plus-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41024
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Pop" tvg-logo="http://209.126.82.213/Logos/hbo-pop-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Pop
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31286
+#EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).ar" tvg-name="á´„ÉªÉ´á´‡ | HBO Signature Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_signature_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Signature Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30201
+#EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).ar" tvg-name="á´„ÉªÉ´á´‡ | HBO Signature" tvg-logo="http://209.126.82.213/Logos/hbo_signature_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Signature
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30249
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Xtreme Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-xtreme-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Xtreme Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31288
+#EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="á´„ÉªÉ´á´‡ | I-Sat (á´€Ê€É¢)" tvg-logo="http://209.126.82.213/Logos/i_sat_ar.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | I-Sat (á´€Ê€É¢)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29975
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Paramount Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/paramount_channel_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Paramount Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29775
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Paramount Channel Êœá´…" tvg-logo="http://209.126.82.213/Logos/paramount_channel_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Paramount Channel Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41025
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="á´„ÉªÉ´á´‡ | Sony Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/sony-channel-sur-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Sony Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29776
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="á´„ÉªÉ´á´‡ | Sony Channel" tvg-logo="http://209.126.82.213/Logos/sony-channel-sur-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Sony Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29830
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="á´„ÉªÉ´á´‡ | Space" tvg-logo="http://209.126.82.213/Logos/space_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Space
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29831
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="á´„ÉªÉ´á´‡ | Studio Universal Êœá´…" tvg-logo="http://209.126.82.213/Logos/studio_universal_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Studio Universal Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29832
+#EXTINF:-1 tvg-id="SyfyMX" tvg-name="á´„ÉªÉ´á´‡ | SyFy " tvg-logo="http://209.126.82.213/Logos/syfy_us_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | SyFy 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29833
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="á´„ÉªÉ´á´‡ | TBS" tvg-logo="http://209.126.82.213/Logos/tbs_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TBS
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32925
+#EXTINF:-1 tvg-id="TCMMX" tvg-name="á´„ÉªÉ´á´‡ | TCM (á´x)" tvg-logo="http://209.126.82.213/Logos/tcm_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TCM (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29780
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT" tvg-logo="http://209.126.82.213/Logos/tnt_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29834
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT Series Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/tnt-series-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT Series Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29782
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT Series" tvg-logo="http://209.126.82.213/Logos/tnt-series-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT Series
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29835
+#EXTINF:-1 tvg-id="WarnerChannelAtlanticoSur.us" tvg-name="á´„ÉªÉ´á´‡ | Warner Channel" tvg-logo="http://209.126.82.213/Logos/warner_tv_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Warner Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29837
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Cinemax Action Êœá´…" tvg-logo="http://209.126.82.213/Logos/action_max_east.png" group-title="USA",á´œsá´€ | Cinemax Action Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34551
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | HBO West Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo.png" group-title="USA",á´œsá´€ | HBO West Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31257
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | IndiexPlex Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_indieplex.png" group-title="CINE USA",á´œsá´€ | IndiexPlex Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34548
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Movie Max Êœá´…" tvg-logo="http://209.126.82.213/Logos/movie_max_us.png" group-title="CINE USA",á´œsá´€ | Movie Max Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34546
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | MoviePlex Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_movieplex.png" group-title="CINE USA",á´œsá´€ | MoviePlex Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34545
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | OuterMax Êœá´…" tvg-logo="http://209.126.82.213/Logos/outer_max_us.png" group-title="USA",á´œsá´€ | OuterMax Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34544
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Showtime East Êœá´…" tvg-logo="http://209.126.82.213/Logos/showtime_east.png" group-title="USA",á´œsá´€ | Showtime East Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/34542
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Starz Cinema Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_us_cinema_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Starz Cinema Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31179
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Comedy Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_us_comedy_east.png" group-title="USA",á´œsá´€ | Starz Comedy Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31178
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Encore Action Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_action_east.png" group-title="USA",á´œsá´€ | Starz Encore Action Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31175
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Starz Encore Classics Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_classic_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Starz Encore Classics Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31174
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Encore Family Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_family_east.png" group-title="USA",á´œsá´€ | Starz Encore Family Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31173
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Encore Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_east.png" group-title="USA",á´œsá´€ | Starz Encore Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31167
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Encore Suspense Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_suspense_east.png" group-title="USA",á´œsá´€ | Starz Encore Suspense Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31168
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Starz Encore Westerns Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_westerns_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Starz Encore Westerns Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31171
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Starz Encore Family Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_encore_us_family_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Starz Encore Family Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31172
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Starz in Black Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_us_in_black_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Starz in Black Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31180
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Starz Kids & Family Êœá´…" tvg-logo="http://209.126.82.213/Logos/starz_us_kids_family_east.png" group-title="USA",á´œsá´€ | Starz Kids & Family Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31170
+#EXTINF:-1 tvg-id="Canal.1.(Canal.1.HD).co" tvg-name="á´„á´ | Canal 1 Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cana1-co.png" group-title="COLOMBIA",á´„á´ | Canal 1 Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31189
+#EXTINF:-1 tvg-id="Caracol.TV.Internacional.HDTV.(CRCINTHD).[793].cr" tvg-name="á´„á´ | Caracol Internacional Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/caracol_internacional_co.png" group-title="COLOMBIA",á´„á´ | Caracol Internacional Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30317
+#EXTINF:-1 tvg-id="Trece.co" tvg-name="á´„á´ | Trece Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/trece_co.png" group-title="COLOMBIA",á´„á´ | Trece Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30579
+#EXTINF:-1 tvg-id="CO - NTN24" tvg-name="á´„á´ | NTN24" tvg-logo="http://209.126.82.213/Logos/ntn-24-co.png" group-title="COLOMBIA",á´„á´ | NTN24
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32887
+#EXTINF:-1 tvg-id="CO - RCN Novelas" tvg-name="á´„á´ | RCN Nuestra Tele" tvg-logo="http://209.126.82.213/Logos/rcn-nuestra-tele-internacional-co.png" group-title="COLOMBIA",á´„á´ | RCN Nuestra Tele
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30316
+#EXTINF:-1 tvg-id="CO - Teleantioquia" tvg-name="á´„á´ | Teleantoquia Êœá´…" tvg-logo="http://209.126.82.213/Logos/teleantioquia-co.png" group-title="COLOMBIA",á´„á´ | Teleantoquia Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30528
+#EXTINF:-1 tvg-id="CO - Teleantioquia" tvg-name="á´„á´ | Teleantioquia" tvg-logo="http://209.126.82.213/Logos/teleantioquia-co.png" group-title="COLOMBIA",á´„á´ | Teleantioquia
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30421
+#EXTINF:-1 tvg-id="CO - Tv Agro" tvg-name="á´„á´ | TV Agro" tvg-logo="http://209.126.82.213/Logos/tv_agro.png" group-title="COLOMBIA",á´„á´ | TV Agro
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30647
+#EXTINF:-1 tvg-id="ElGourmetNorte.ar" tvg-name="á´‡É´á´› | El Gourmet Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/el-gourmet-ar.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | El Gourmet Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29971
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="á´‡É´á´› | Food Network Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/food-network-uk.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Food Network Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29972
+#EXTINF:-1 tvg-id="I404.10222.schedulesdirect.org" tvg-name="á´‡É´á´› | Galavision Êœá´…" tvg-logo="http://209.126.82.213/Logos/galavision_east.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Galavision Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31183
+#EXTINF:-1 tvg-id="GlitzMX" tvg-name="á´‡É´á´› | Glitz sá´…" tvg-logo="http://209.126.82.213/Logos/glitz_lam.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Glitz sá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29973
+#EXTINF:-1 tvg-id="HOLATV" tvg-name="á´‡É´á´› | Hola TV Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hola_tv_es.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Hola TV Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29974
+#EXTINF:-1 tvg-id="PasionesCO" tvg-name="á´‡É´á´› | Pasiones Êœá´…" tvg-logo="http://209.126.82.213/Logos/pasiones_us_lam.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Pasiones Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30265
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="á´‡É´á´› | Telemundo Internacional Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/telemundo_internacional.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Telemundo Internacional Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/36726
+#EXTINF:-1 tvg-id="TlnovelasMX" tvg-name="á´‡É´á´› | Tlnovelas Ò“Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/tlnovelas-mx.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Tlnovelas Ò“Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30203
+#EXTINF:-1 tvg-id="I408.68040.schedulesdirect.org" tvg-name="á´‡É´á´› | Unimas Êœá´…" tvg-logo="http://209.126.82.213/Logos/unimas_este.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Unimas Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30267
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´‡É´á´› | Univision Tlnovelas" tvg-logo="http://209.126.82.213/Logos/univision_tlnovelas_us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Univision Tlnovelas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32751
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="á´‡É´á´› | HTV sá´…" tvg-logo="http://209.126.82.213/Logos/htv-us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | HTV sá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/37380
+#EXTINF:-1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="á´‹Éªá´…s | Baby TV (á´x)" tvg-logo="http://209.126.82.213/Logos/baby_tv_eu.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Baby TV (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29731
+#EXTINF:-1 tvg-id="Cartoonito.HD.(Latin.America).(CTNOHD).[792].cr" tvg-name="á´‹Éªá´…s | Cartoonito Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cartoonito-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Cartoonito Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29732
+#EXTINF:-1 tvg-id="Cartoonito.HD.(Latin.America).(CTNOHD).[792].cr" tvg-name="á´‹Éªá´…s | Cartoonito" tvg-logo="http://209.126.82.213/Logos/cartoonito-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Cartoonito
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29798
+#EXTINF:-1 tvg-id="AR - Cartoon Network" tvg-name="á´‹Éªá´…s | Cartoon Network Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cartoon-network-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Cartoon Network Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29733
+#EXTINF:-1 tvg-id="AR - Cartoon Network" tvg-name="á´‹Éªá´…s | Cartoon Network" tvg-logo="http://209.126.82.213/Logos/cartoon-network-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Cartoon Network
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29799
+#EXTINF:-1 tvg-id="Discovery KidsMx" tvg-name="á´‹Éªá´…s | Discovery Kids Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Discovery Kids Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29741
+#EXTINF:-1 tvg-id="CO - Discovery Kids HD" tvg-name="á´‹Éªá´…s | Discovery Kids Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Discovery Kids Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29804
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-name="á´‹Éªá´…s | Disney Channel Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/disney-channel-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Channel Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29746
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-name="á´‹Éªá´…s | Disney Channel Êœá´…" tvg-logo="http://209.126.82.213/Logos/disney-channel-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Channel Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29807
+#EXTINF:-1 tvg-id="CO - Disney Junior" tvg-name="á´‹Éªá´…s | Disney Junior" tvg-logo="http://209.126.82.213/Logos/disney_junior_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Junior
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41284
+#EXTINF:-1 tvg-id="CO - Disney Junior" tvg-name="á´‹Éªá´…s | Disney Junior Êœá´…" tvg-logo="http://209.126.82.213/Logos/disney_junior_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Junior Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29808
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="á´‹Éªá´…s | TeenNick Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/teen_nick_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | TeenNick Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29773
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="á´‹Éªá´…s | TeenNick" tvg-logo="http://209.126.82.213/Logos/teen_nick_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | TeenNick
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29829
+#EXTINF:-1 tvg-id="CO - Nick Jr." tvg-name="á´‹Éªá´…s | Nick Jr Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/nick_jr_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nick Jr Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32743
+#EXTINF:-1 tvg-id="CO - Nick Jr." tvg-name="á´‹Éªá´…s | Nick Jr" tvg-logo="http://209.126.82.213/Logos/nick_jr_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nick Jr
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31226
+#EXTINF:-1 tvg-id="CO - Nickelodeon" tvg-name="á´‹Éªá´…s | Nickelodeon" tvg-logo="http://209.126.82.213/Logos/nickelodeon_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nickelodeon
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29828
+#EXTINF:-1 tvg-id="CO - Tooncast" tvg-name="á´‹Éªá´…s | Tooncast" tvg-logo="http://209.126.82.213/Logos/tooncast.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Tooncast
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29783
+#EXTINF:-1 tvg-id="English.-.Bloomberg.Television.hk" tvg-name="á´á´œÉ´á´…á´ | El Financiero Bloomberg HD" tvg-logo="https://www.cableonda.com/sites/default/files/styles/thumbnail/public/canales-tax/bloomberg.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | El Financiero Bloomberg HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29967
+#EXTINF:-1 tvg-id="Cnn.En.EspaÃ±ol.cl" tvg-name="á´á´œÉ´á´…á´ | CNN Espanol SD Â©" tvg-logo="https://www.cableonda.com/sites/default/files/styles/thumbnail/public/canales-tax/cnn-espanol.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | CNN Espanol SD Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29968
+#EXTINF:-1 tvg-id="English.-.CNN.International.hk" tvg-name="á´á´œÉ´á´…á´ | CNN Internacional HD" tvg-logo="https://www.cableonda.com/sites/default/files/styles/thumbnail/public/canales-tax/cnn-international.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | CNN Internacional HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29969
+#EXTINF:-1 tvg-id="UnivisiÃ³n.(Latin.America).(UNIVIS).[407].cr" tvg-name="á´á´œÉ´á´…á´ | UnivisiÃ³n Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1090076849911353345/HGmsxMG4.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | UnivisiÃ³n Noticias
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31234
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´á´œÉ´á´…á´ | DW SD" tvg-logo="https://www.cableonda.com/sites/default/files/styles/thumbnail/public/canales-tax/dw-america.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | DW SD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29933
+#EXTINF:-1 tvg-id="France.24.(North.America.-.French).(F24).ar" tvg-name="á´á´œÉ´á´…á´ | France 24 FHD" tvg-logo="https://cvinetwork.org/wp-content/uploads/2020/10/france24-es.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | France 24 FHD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32750
+#EXTINF:-1 tvg-id="" tvg-name="PY | La Tele" tvg-logo="http://144.217.91.146/Logos/Paraguay/la-tele-py.png" group-title="PARAGUAY",PY | La Tele
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31247
+#EXTINF:-1 tvg-id="Cartoon NetworkMX" tvg-name="2á´Ê™ | Cartoon Network Ë¢á´°" tvg-logo="http://209.126.82.213/Logos/cartoonito-us.png" group-title="LATINOS 2MB",2á´Ê™ | Cartoon Network Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30665
+#EXTINF:-1 tvg-id="CinecanalMX" tvg-name="2á´Ê™ | Cinecanal Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/cinecanal-us.png" group-title="LATINOS 2MB",2á´Ê™ | Cinecanal Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30661
+#EXTINF:-1 tvg-id="CinemaxMX" tvg-name="2á´Ê™ | Cinemax Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png" group-title="LATINOS 2MB",2á´Ê™ | Cinemax Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30663
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-name="2á´Ê™ | Discovery Turbo Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/discovery-turbo-us.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery Turbo Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31118
+#EXTINF:-1 tvg-id="ESPNMX" tvg-name="2á´Ê™ | ESPN 1 Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/espn-us.png" group-title="LATINOS 2MB",2á´Ê™ | ESPN 1 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31122
+#EXTINF:-1 tvg-id="ESPN2MX" tvg-name="2á´Ê™ | ESPN 2 Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/espn-2.png" group-title="LATINOS 2MB",2á´Ê™ | ESPN 2 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31123
+#EXTINF:-1 tvg-id="ESPN3MX" tvg-name="2á´Ê™ | ESPN 3 Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png" group-title="LATINOS 2MB",2á´Ê™ | ESPN 3 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31124
+#EXTINF:-1 tvg-id="FXMX" tvg-name="2á´Ê™ | FX Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/fx-us.png" group-title="LATINOS 2MB",2á´Ê™ | FX Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31135
+#EXTINF:-1 tvg-id="HBOMX" tvg-name="2á´Ê™ | HBO Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/hbo-1.png" group-title="LATINOS 2MB",2á´Ê™ | HBO Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31138
+#EXTINF:-1 tvg-id="LasEstrellasMX" tvg-name="2á´Ê™ | Las Estrellas Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="LATINOS 2MB",2á´Ê™ | Las Estrellas Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31120
+#EXTINF:-1 tvg-id="TNT MX" tvg-name="2á´Ê™ | TNT Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/tnt-us.png" group-title="LATINOS 2MB",2á´Ê™ | TNT Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31143
+#EXTINF:-1 tvg-id="TNT SeriesCO" tvg-name="2á´Ê™ | TNT Series Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/tnt-series-us.png" group-title="LATINOS 2MB",2á´Ê™ | TNT Series Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31144
+#EXTINF:-1 tvg-id="Warner ChannelMX" tvg-name="2á´Ê™ | Warner Channel Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_us.png" group-title="LATINOS 2MB",2á´Ê™ | Warner Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31145
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´‡É´á´› | MTV Classics" tvg-logo="http://209.126.82.213/Logos/mtv-classic-us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | MTV Classics
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39804
+#EXTINF:-1 tvg-id="MTVMX" tvg-name="á´‡É´á´› | MTV Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/mtv-us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | MTV Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30540
+#EXTINF:-1 tvg-id="MTVHITS" tvg-name="á´‡É´á´› | MTV Hits" tvg-logo="http://209.126.82.213/Logos/mtv-hits-us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | MTV Hits
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39803
+#EXTINF:-1 tvg-id="MTVLiveCOHD" tvg-name="á´‡É´á´› | MTV Live Êœá´…" tvg-logo="http://209.126.82.213/Logos/mtv-live-hd-us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | MTV Live Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39801
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Canal IPE" tvg-logo="http://144.217.91.146/Logos/Peru/i-pe.png" group-title="PERU",á´˜á´‡ | Canal IPE
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32752
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Canal N Êœá´…" tvg-logo="http://209.126.82.213/Logos/canal_n_pe.png" group-title="PERU",á´˜á´‡ | Canal N Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/35438
+#EXTINF:-1 tvg-id="GOL.PERU.HD.(GOL.PERU.HD).pe" tvg-name="á´˜á´‡ | Gol Peru" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="PERU",á´˜á´‡ | Gol Peru
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30467
+#EXTINF:-1 tvg-id="AR - Canal de la Ciudad" tvg-name="á´˜á´‡ | Gol Peru HD" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="PERU",á´˜á´‡ | Gol Peru HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/37375
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Movistar Deportes" tvg-logo="http://209.126.82.213/Logos/movistar-deportes-pe.png" group-title="PERU",á´˜á´‡ | Movistar Deportes
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32754
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Movistar Plus Êœá´…" tvg-logo="http://209.126.82.213/Logos/movistar-plus-pe.png" group-title="PERU",á´˜á´‡ | Movistar Plus Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32753
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="á´˜á´‡ | Panamericana Êœá´… Â©" tvg-logo="http://209.126.82.213/Logos/panamericana_tv_pe.png" group-title="PERU",á´˜á´‡ | Panamericana Êœá´… Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29957
+#EXTINF:-1 tvg-id="WILLAX.(Willax).pe" tvg-name="á´˜á´‡ | Willax Â©" tvg-logo="http://209.126.82.213/Logos/willax_tv_pe.png" group-title="PERU",á´˜á´‡ | Willax Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/37388
+#EXTINF:-1 tvg-id="CO - Discovery Kids HD" tvg-name="á´‹Éªá´…s | Discovery Kids Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Discovery Kids Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44466
+#EXTINF:-1 tvg-id="CO - Nickelodeon" tvg-name="á´‹Éªá´…s | Nickelodeon Êœá´…" tvg-logo="http://209.126.82.213/Logos/nickelodeon_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nickelodeon Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44469
+#EXTINF:-1 tvg-id="A&E MundoMX" tvg-name="á´„ÉªÉ´á´‡ | A&E Ò“Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/ae_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | A&E Ò“Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45873
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="á´„ÉªÉ´á´‡ | AMC Êœá´…" tvg-logo="http://209.126.82.213/Logos/amc-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AMC Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45874
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="á´„ÉªÉ´á´‡ | AMC" tvg-logo="http://209.126.82.213/Logos/amc-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AMC
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45875
+#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="á´x | Canal 4 (É¢á´…ÊŸ)" tvg-logo="http://209.126.82.213/Logos/sqcs-canal-4-mx.png" group-title="MEXICO",á´x | Canal 4 (É¢á´…ÊŸ)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45944
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO" tvg-logo="http://209.126.82.213/Logos/hbo_latinoamerica_hd.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47462
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Mundi Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-mundi-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Mundi Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47463
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Pop Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-pop-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Pop Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47467
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Xtreme Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-xtreme-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Xtreme Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47469
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Paramount Channel" tvg-logo="http://209.126.82.213/Logos/paramount_channel_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Paramount Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47470
+#EXTINF:-1 tvg-id="TNTArgentina.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT Êœá´…" tvg-logo="http://209.126.82.213/Logos/tnt_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47471
+#EXTINF:-1 tvg-id="" tvg-name="á´„á´œ | TV Marti" tvg-logo="http://144.217.91.146/Logos/Cuba/tv-marti.png" group-title="CUBA",á´„á´œ | TV Marti
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47832
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cinema Disney Family" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cinema Disney Family
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49490
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cinema Dreamworks" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cinema Dreamworks
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49492
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cinema DC Universe" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cinema DC Universe
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49493
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cinema Marvel Studios" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cinema Marvel Studios
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49495
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="á´„á´œÊŸá´› | History 2 Êœá´…" tvg-logo="http://209.126.82.213/Logos/h2-latinoamerica-us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | History 2 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49597
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT Series Êœá´…" tvg-logo="http://209.126.82.213/Logos/tnt-series-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT Series Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47241
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="á´„á´œÊŸá´› | HGTV Êœá´…" tvg-logo="http://209.126.82.213/Logos/hgtv_m.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | HGTV Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/57560
+#EXTINF:-1 tvg-id="Discovery ScienceCO" tvg-name="á´„á´œÊŸá´› | Discovery Science Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery-science-latinoamerica-us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Discovery Science Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/57561
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Mundi Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-mundi-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Mundi Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/57567
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Exponiendo Infieles" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Exponiendo Infieles
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/58150
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Just For Laughs" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Just For Laughs
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/58149
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saga Rapido y Furioso" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saga Rapido y Furioso
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/57575
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Avengers" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Avengers
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43119
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Pantera Rosa" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Pantera Rosa
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43144
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Pedro Infante" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Pedro Infante
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43146
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Los AÃ±os Maravillosos" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Los AÃ±os Maravillosos
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43149
+#EXTINF:-1 tvg-id="" tvg-name="Ê€á´‡ÊŸ | Enlace TV Êœá´…" tvg-logo="http://209.126.82.213/Logos/cristiano.png" group-title="RELIGIOSOS",Ê€á´‡ÊŸ | Enlace TV Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59527
+#EXTINF:-1 tvg-id="" tvg-name="Ê€á´‡ÊŸ | Dios Te ve TV  Infantil Êœá´…" tvg-logo="http://209.126.82.213/Logos/cristiano.png" group-title="RELIGIOSOS",Ê€á´‡ÊŸ | Dios Te ve TV  Infantil Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59743
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Morbido TV" tvg-logo="http://209.126.82.213/Logos/morbido-ar.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Morbido TV
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59773
+#EXTINF:-1 tvg-id="CO | CO - ESPN 2" tvg-name="á´…á´‡á´˜ | ESPN 1 (á´„á´)" tvg-logo="http://209.126.82.213/Logos/espn1.png" group-title="DEPORTES",á´…á´‡á´˜ | ESPN 1 (á´„á´)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59775
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Plus Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-plus-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Plus Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41023
+#EXTINF:-1 tvg-id="I910.74016.schedulesdirect.org" tvg-name="á´„ÉªÉ´á´‡ | De Pelicula Plus Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/de-pelicula-plus-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | De Pelicula Plus Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47442
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Plus Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-plus-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Plus Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47223
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="á´„ÉªÉ´á´‡ | Sony Channel Êœá´…" tvg-logo="http://209.126.82.213/Logos/sony-channel-sur-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Sony Channel Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47230
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Lifetime" tvg-logo="http://209.126.82.213/Logos/lifetime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Lifetime
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47444
+#EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).ar" tvg-name="á´„ÉªÉ´á´‡ | HBO Signature Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_signature_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Signature Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47468
+#EXTINF:-1 tvg-id="HBOChile.cl" tvg-name="á´„ÉªÉ´á´‡ | HBO Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_latinoamerica_hd.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41020
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Xtreme" tvg-logo="http://209.126.82.213/Logos/hbo-xtreme-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Xtreme
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47226
+#EXTINF:-1 tvg-id="AR - 24/7 Canal de Noticias" tvg-name="á´‹Éªá´…s | Zoomoo" tvg-logo="http://209.126.82.213/Logos/zoomoo-kids-br.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Zoomoo
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59848
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | XH Derbez" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | XH Derbez
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61130
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Pinky y Cerebro" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Pinky y Cerebro
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61150
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="á´„ÉªÉ´á´‡ | Space Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/space_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Space Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29777
+#EXTINF:-1 tvg-id="CO - Win Sports" tvg-name="á´„á´ | Win Sports" tvg-logo="http://209.126.82.213/Logos/win_sports_co.png" group-title="COLOMBIA",á´„á´ | Win Sports
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40366
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Alf" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Alf
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30507
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Los Magnificos" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Los Magnificos
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39797
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Baywatch" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Baywatch
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40977
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saga Transformers" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saga Transformers
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62778
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Jorge el Curioso" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Jorge el Curioso
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62779
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | He Man" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | He Man
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62829
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Dragon Ball Super" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Dragon Ball Super
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62840
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cumbia Ninja" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cumbia Ninja
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62841
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Pepa Pig" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Pepa Pig
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62804
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | XMen" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | XMen
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62849
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Toy Story" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Toy Story
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63056
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | TÊ€á´€É´sá´˜á´Ê€á´›á´€á´…á´Ê€" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | TÊ€á´€É´sá´˜á´Ê€á´›á´€á´…á´Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63058
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cantinflas" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cantinflas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63155
+#EXTINF:-1 tvg-id="A&E MundoMX" tvg-name="2á´Ê™ | A&E Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="LATINOS 2MB",2á´Ê™ | A&E Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30656
+#EXTINF:-1 tvg-id="Antena3CO" tvg-name="2á´Ê™ | Antena 3 Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/antena3-int.png" group-title="LATINOS 2MB",2á´Ê™ | Antena 3 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30657
+#EXTINF:-1 tvg-id="AXNMX" tvg-name="2á´Ê™ | AXN Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/axn-global.png" group-title="LATINOS 2MB",2á´Ê™ | AXN Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30659
+#EXTINF:-1 tvg-id="Boomerang.(Mexico).(BOOM).mx" tvg-name="2á´Ê™ | Boomerang Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/boomerang-global.png" group-title="LATINOS 2MB",2á´Ê™ | Boomerang Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30660
+#EXTINF:-1 tvg-id="Film&ArtsMX" tvg-name="2á´Ê™ | Film & Arts Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/film-and-arts-lam.png" group-title="LATINOS 2MB",2á´Ê™ | Film & Arts Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30658
+#EXTINF:-1 tvg-id="ComedyCentralMX" tvg-name="2á´Ê™ | Comedy Central Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/comedy-central-deutschland-us-de.png" group-title="LATINOS 2MB",2á´Ê™ | Comedy Central Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30664
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealthMX" tvg-name="2á´Ê™ | Discovery Home & Healt Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery Home & Healt Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30666
+#EXTINF:-1 tvg-id="Discovery ChannelMX" tvg-name="2á´Ê™ | Discovery Channel Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30667
+#EXTINF:-1 tvg-id="StarChannelMX" tvg-name="2á´Ê™ | Star Channel Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="LATINOS 2MB",2á´Ê™ | Star Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31125
+#EXTINF:-1 tvg-id="DisneyJRMX" tvg-name="2á´Ê™ | Disney Junior Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/disney-junior-us.png" group-title="LATINOS 2MB",2á´Ê™ | Disney Junior Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31119
+#EXTINF:-1 tvg-id="FOX Sports 2MX" tvg-name="2á´Ê™ | Fox Sports 2 Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/fox-sports-2-lam.png" group-title="LATINOS 2MB",2á´Ê™ | Fox Sports 2 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31131
+#EXTINF:-1 tvg-id="History2CO" tvg-name="2á´Ê™ | History 2 Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/h2-latinoamerica-us.png" group-title="LATINOS 2MB",2á´Ê™ | History 2 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31137
+#EXTINF:-1 tvg-id="HBOFAMILYMX" tvg-name="2á´Ê™ | HBO Family Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/hbo-family-lam.png" group-title="LATINOS 2MB",2á´Ê™ | HBO Family Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31139
+#EXTINF:-1 tvg-id="HBO2MX" tvg-name="2á´Ê™ | HBO 2 Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="LATINOS 2MB",2á´Ê™ | HBO 2 Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31140
+#EXTINF:-1 tvg-id="SpaceMX" tvg-name="2á´Ê™ | Space Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_mx.png" group-title="LATINOS 2MB",2á´Ê™ | Space Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31141
+#EXTINF:-1 tvg-id="SyfyMX" tvg-name="2á´Ê™ | SyFy Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/syfy-us-global.png" group-title="LATINOS 2MB",2á´Ê™ | SyFy Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31142
+#EXTINF:-1 tvg-id="InvestigationMX" tvg-name="2á´Ê™ | Investigation Discovery Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="LATINOS 2MB",2á´Ê™ | Investigation Discovery Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/39739
+#EXTINF:-1 tvg-id="AMCMX" tvg-name="2á´Ê™ | AMC Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="LATINOS 2MB",2á´Ê™ | AMC Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45928
+#EXTINF:-1 tvg-id="HBO+MX" tvg-name="2á´Ê™ | HBO Plus Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="LATINOS 2MB",2á´Ê™ | HBO Plus Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45929
+#EXTINF:-1 tvg-id="DHECO" tvg-name="2á´Ê™ | DHE Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/dhe.png" group-title="LATINOS 2MB",2á´Ê™ | DHE Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45930
+#EXTINF:-1 tvg-id="EuropaEuropa.uk" tvg-name="2á´Ê™ | Europa Europa Ë¢á´°" tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png" group-title="LATINOS 2MB",2á´Ê™ | Europa Europa Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45931
+#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="2á´Ê™ | Golden Premier Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-premier-mx.png" group-title="LATINOS 2MB",2á´Ê™ | Golden Premier Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45932
+#EXTINF:-1 tvg-id="HBO SignatureCO" tvg-name="2á´Ê™ | HBO Signature Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/1Claro/HBOSIGNATUREHDWHORIZONTAL.jpg" group-title="LATINOS 2MB",2á´Ê™ | HBO Signature Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45933
+#EXTINF:-1 tvg-id="Universal ChannelMX" tvg-name="2á´Ê™ | Universal Channel Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/1Claro/UNIVERSALHDWHORIZONTAL.jpg" group-title="LATINOS 2MB",2á´Ê™ | Universal Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45935
+#EXTINF:-1 tvg-id="SonyMX" tvg-name="2á´Ê™ | Sony Channel Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="LATINOS 2MB",2á´Ê™ | Sony Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45936
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="2á´Ê™ | Golden Edge Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="LATINOS 2MB",2á´Ê™ | Golden Edge Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45937
+#EXTINF:-1 tvg-id="DepeliculaMX" tvg-name="2á´Ê™ | De Pelicula Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="LATINOS 2MB",2á´Ê™ | De Pelicula Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45938
+#EXTINF:-1 tvg-id="NickMX" tvg-name="2á´Ê™ | Nickelodeon Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/France/nickelodeon-us.png" group-title="LATINOS 2MB",2á´Ê™ | Nickelodeon Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45939
+#EXTINF:-1 tvg-id="AnimalPlanetMX" tvg-name="2á´Ê™ | Animal Planet Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="LATINOS 2MB",2á´Ê™ | Animal Planet Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59920
+#EXTINF:-1 tvg-id="I823.50338.schedulesdirect.org" tvg-name="2á´Ê™ | Baby First Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/babyFirst.png" group-title="LATINOS 2MB",2á´Ê™ | Baby First Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59921
+#EXTINF:-1 tvg-id="DisneyChannelMX" tvg-name="2á´Ê™ | Disney Channel Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/disney-channel-global.png" group-title="LATINOS 2MB",2á´Ê™ | Disney Channel Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59922
+#EXTINF:-1 tvg-id="BR - Food Network" tvg-name="2á´Ê™ | Food Network Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/Brazil/food-network-us.png" group-title="LATINOS 2MB",2á´Ê™ | Food Network Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61123
+#EXTINF:-1 tvg-id="MX - I-SAT" tvg-name="2á´Ê™ | I-Sat Ë¢á´°" tvg-logo="isa" group-title="LATINOS 2MB",2á´Ê™ | I-Sat Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/45934
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´á´œÉ´á´…á´ | RT en EspaÃ±ol" tvg-logo="https://seeklogo.com/images/R/rt-logo-C7591FA645-seeklogo.com.png" group-title="NOTICIAS DEL MUNDO",á´á´œÉ´á´…á´ | RT en EspaÃ±ol
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/49483
+#EXTINF:-1 tvg-id="CO - A&E Mundo HD" tvg-name="á´„ÉªÉ´á´‡ | A&E Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/ae_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | A&E Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29722
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="á´„ÉªÉ´á´‡ | Cinecanal Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cinecanal.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinecanal Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29734
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Cinemax Êœá´…" tvg-logo="http://209.126.82.213/Logos/cinemax_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinemax Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29735
+#EXTINF:-1 tvg-id="DepeliculaMX" tvg-name="á´„ÉªÉ´á´‡ | De Pelicula Êœá´… (á´x)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | De Pelicula Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29737
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Star Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/star-channel-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Star Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29753
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="á´„ÉªÉ´á´‡ | FX Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/fx_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | FX Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29763
+#EXTINF:-1 tvg-id="GoldenMX" tvg-name="á´„ÉªÉ´á´‡ | Golden Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/golden-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29765
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="á´„ÉªÉ´á´‡ | Golden Edge (á´x)" tvg-logo="http://209.126.82.213/Logos/golden-edge-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Edge (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29766
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="á´„ÉªÉ´á´‡ | Studio Universal Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/studio_universal_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Studio Universal Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29778
+#EXTINF:-1 tvg-id="SyfyMX" tvg-name="á´„ÉªÉ´á´‡ | SyFy Êœá´…" tvg-logo="http://209.126.82.213/Logos/syfy_us_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | SyFy Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29779
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | TNT Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/tnt_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TNT Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29781
+#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="á´„ÉªÉ´á´‡ | Warner Channel Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/warner_tv_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Warner Channel Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29785
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="á´„ÉªÉ´á´‡ | Cinecanal Êœá´…" tvg-logo="http://209.126.82.213/Logos/cinecanal.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinecanal Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29800
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Family Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_family_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Family Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30397
+#EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="á´„ÉªÉ´á´‡ | Multipremier" tvg-logo="http://209.126.82.213/Logos/multipremier_mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Multipremier
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30495
+#EXTINF:-1 tvg-id="AMCMX" tvg-name="á´„ÉªÉ´á´‡ | AMC Ò“Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/amc-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AMC Ò“Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32904
+#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="á´„ÉªÉ´á´‡ | Golden Premier  Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/golden-premier-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Premier  Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/32914
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | Universal Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal_channel_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62802
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="á´„ÉªÉ´á´‡ | Space Êœá´…" tvg-logo="http://209.126.82.213/Logos/space_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Space Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62801
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Pop Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo-pop-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Pop Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62798
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Family" tvg-logo="http://209.126.82.213/Logos/hbo_family_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Family
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62797
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO 2" tvg-logo="http://209.126.82.213/Logos/hbo2_lam.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO 2
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62795
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | Lifetime Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/lifetime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Lifetime Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62789
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="á´„ÉªÉ´á´‡ | FX Êœá´…" tvg-logo="http://209.126.82.213/Logos/fx_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | FX Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62792
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="á´„ÉªÉ´á´‡ | Cinecanal" tvg-logo="http://209.126.82.213/Logos/cinecanal.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Cinecanal
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62783
+#EXTINF:-1 tvg-id="StarChannelMX" tvg-name="á´„ÉªÉ´á´‡ | Star Channel Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/star-channel-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Star Channel Êœá´… (á´x) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61310
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="á´„ÉªÉ´á´‡ | AXN Êœá´…" tvg-logo="http://209.126.82.213/Logos/axn_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | AXN Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62781
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | Universal Channel Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal_channel_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Channel Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41026
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-name="á´‹Éªá´…s | Disney Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/disney-channel-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41283
+#EXTINF:-1 tvg-id="CO - Nickelodeon" tvg-name="á´‹Éªá´…s | Nickelodeon Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/nickelodeon_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nickelodeon Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/41287
+#EXTINF:-1 tvg-id="Cartoonito.HD.(Latin.America).(CTNOHD).[792].cr" tvg-name="á´‹Éªá´…s | Cartoonito Êœá´…" tvg-logo="http://209.126.82.213/Logos/cartoonito-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Cartoonito Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/46256
+#EXTINF:-1 tvg-id="" tvg-name="á´‹Éªá´…s | Semillitas" tvg-logo="http://209.126.82.213/Logos/semillitas-tv-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Semillitas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61365
+#EXTINF:-1 tvg-id="CO - Disney Junior" tvg-name="á´‹Éªá´…s | Disney Junior Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/disney_junior_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Junior Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62555
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="á´‹Éªá´…s | TeenNick Êœá´…" tvg-logo="http://209.126.82.213/Logos/teen_nick_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | TeenNick Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62556
+#EXTINF:-1 tvg-id="CO - Nick Jr." tvg-name="á´‹Éªá´…s | Nick Jr Êœá´…" tvg-logo="http://209.126.82.213/Logos/nick_jr_us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Nick Jr Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62557
+#EXTINF:-1 tvg-id="CO - Discovery Kids HD" tvg-name="á´‹Éªá´…s | Discovery Kids" tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Discovery Kids
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62803
+#EXTINF:-1 tvg-id="Mas Chic" tvg-name="á´‡É´á´› | Mas Chic sá´…" tvg-logo="http://209.126.82.213/Logos/mas_chic_lam.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Mas Chic sá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/47312
+#EXTINF:-1 tvg-id="CO - Concert Channel" tvg-name="á´‡É´á´› | Concert Channel Ò“Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/cc/concert_channel_lam.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Concert Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61124
+#EXTINF:-1 tvg-id="ComedyCentralMX" tvg-name="á´‡É´á´› | Comedy Central Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/comedy_central_us.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Comedy Central Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61178
+#EXTINF:-1 tvg-id="TlnovelasMX" tvg-name="á´‡É´á´› | Tlnovelas (á´x)" tvg-logo="http://209.126.82.213/Logos/tlnovelas-mx.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | Tlnovelas (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61712
+#EXTINF:-1 tvg-id="E!MX" tvg-name="á´‡É´á´› | E! Entertaiment Êœá´…" tvg-logo="http://144.217.91.146/Logos/1Claro/EENTERTAINMENTHDWHORIZONTAL.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | E! Entertaiment Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62548
+#EXTINF:-1 tvg-id="PE - Latina" tvg-name="á´˜á´‡ | Latina Â©" tvg-logo="http://209.126.82.213/Logos/latina-pe.png" group-title="PERU",á´˜á´‡ | Latina Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29953
+#EXTINF:-1 tvg-id="PE - ATV" tvg-name="á´˜á´‡ | ATV  Â©" tvg-logo="http://209.126.82.213/Logos/atv-pe.png" group-title="PERU",á´˜á´‡ | ATV  Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29954
+#EXTINF:-1 tvg-id="AR - Canal de la Ciudad" tvg-name="á´˜á´‡ | É¢á´ÊŸ á´˜á´‡Ê€á´œ Ò“Êœá´…" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="PERU",á´˜á´‡ | É¢á´ÊŸ á´˜á´‡Ê€á´œ Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/30404
+#EXTINF:-1 tvg-id="Directv Sports FHD (CL)" tvg-name="á´˜á´‡ | Peru Magico" tvg-logo="http://144.217.91.146/Logos/Peru/peru-magico-pe.png" group-title="PERU",á´˜á´‡ | Peru Magico
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29955
+#EXTINF:-1 tvg-id="PE - AmÃ©rica TelevisiÃ³n" tvg-name="á´˜á´‡ | America TV Êœá´…" tvg-logo="http://209.126.82.213/Logos/america-pe.png" group-title="PERU",á´˜á´‡ | America TV Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/31667
+#EXTINF:-1 tvg-id="PE - AmÃ©rica TelevisiÃ³n" tvg-name="á´˜á´‡ | America TV" tvg-logo="http://209.126.82.213/Logos/america-pe.png" group-title="PERU",á´˜á´‡ | America TV
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/35846
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Retro Plus" tvg-logo="http://209.126.82.213/Logos/retro-tv-us.png" group-title="PERU",á´˜á´‡ | Retro Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/60803
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | RPP" tvg-logo="http://209.126.82.213/Logos/rpp_tv_pe.png" group-title="PERU",á´˜á´‡ | RPP
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61380
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | Warner Channel Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/warner_tv_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Warner Channel Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/65761
+#EXTINF:-1 tvg-id="SerTV.pa" tvg-name="PA | SerTV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo.png" group-title="PANAMA",PA | SerTV
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/65929
+#EXTINF:-1 tvg-id="I910.74016.schedulesdirect.org" tvg-name="á´„ÉªÉ´á´‡ | De Pelicula Clasico " tvg-logo="http://209.126.82.213/Logos/de-pelicula-clasico-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | De Pelicula Clasico 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/64310
+#EXTINF:-1 tvg-id="Discovery KidsMx" tvg-name="2á´Ê™ | Discovery Kids Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery Kids Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67190
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealthMX" tvg-name="2á´Ê™ | Discovery Theather Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/Clarovideo/DISCOVERYTHEATERHD_t-290x163.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery Theather Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67191
+#EXTINF:-1 tvg-id="DiscoveryWorldMX" tvg-name="2á´Ê™ | Discovery World Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/Clarovideo/DISCOVERYWORLDHD_t-290x163.png" group-title="LATINOS 2MB",2á´Ê™ | Discovery World Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67192
+#EXTINF:-1 tvg-id="National GeographicMX" tvg-name="2á´Ê™ | Natgeo Ë¢á´°" tvg-logo="http://144.217.91.146/Logos/Clarovideo/NATIONALGEOGRAPHICHD_t-290x163.png" group-title="LATINOS 2MB",2á´Ê™ | Natgeo Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67194
+#EXTINF:-1 tvg-id="CinelatinoCO" tvg-name="2á´Ê™ | Cine Latino Ë¢á´°" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_latino.png" group-title="LATINOS 2MB",2á´Ê™ | Cine Latino Ë¢á´°
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67196
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | DÊ€á´€É¢á´É´ Bá´€ÊŸÊŸ GT" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | DÊ€á´€É¢á´É´ Bá´€ÊŸÊŸ GT
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63573
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Hechizado" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Hechizado
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63578
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Game Of Thrones" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Game Of Thrones
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63575
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="á´„á´œÊŸá´› | History 2 Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/h2-latinoamerica-us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | History 2 Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67335
+#EXTINF:-1 tvg-id="TC.TelevisiÃ³n.(TCTV)..ec" tvg-name="á´‡á´„á´œ | TC TV Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tc-tv-ec.png" group-title="ECUADOR",á´‡á´„á´œ | TC TV Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61876
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="á´‡á´„á´œ | Ecuavisa Êœá´… | Guayaquil Â©" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",á´‡á´„á´œ | Ecuavisa Êœá´… | Guayaquil Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61875
+#EXTINF:-1 tvg-id="EC DIRECTV Sports Plus" tvg-name="á´‡á´„á´œ | Directv Sports Plus Â©" tvg-logo="http://imgfz.com/i/Y54VXzr.png" group-title="ECUADOR",á´‡á´„á´œ | Directv Sports Plus Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/61874
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="á´…á´‡á´˜ | Bein Sports É´ (á´œsá´€)" tvg-logo="http://209.126.82.213/Logos/bein_mena_sports_espanol.png" group-title="DEPORTES",á´…á´‡á´˜ | Bein Sports É´ (á´œsá´€)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63905
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ | TUDN HD Â©" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" group-title="USA",á´œsá´€ | TUDN HD Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67806
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="á´…á´‡á´˜ | DAZN F1 (á´‡s)" tvg-logo="http://209.126.82.213/Logos/dazn-f1-uk-es.png" group-title="DEPORTES",á´…á´‡á´˜ | DAZN F1 (á´‡s)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67928
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Tampa" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Tampa
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67992
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Phoenix" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Phoenix
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67993
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo San Francisco (KSTS)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo San Francisco (KSTS)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42629
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo New Orleans (KGLA)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo New Orleans (KGLA)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42635
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Orlando (WTMO)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Orlando (WTMO)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/66666
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Houston (KTMD)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Houston (KTMD)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63972
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Connecticut (WRDM)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Connecticut (WRDM)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/64311
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo San Antonio (KVDA)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo San Antonio (KVDA)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42632
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Boston (WNEU)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Boston (WNEU)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29945
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Los Angeles (KVEA) Â©" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Los Angeles (KVEA) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42631
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Miami (WSCV)*" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Miami (WSCV)*
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29946
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Chicago (WSNS)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Chicago (WSNS)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42637
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Las Vegas (KBLR)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Las Vegas (KBLR)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42634
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Atlanta (WKTB)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Atlanta (WKTB)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/66667
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Dallas (KXTX)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Dallas (KXTX)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/42636
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Denver (KDEN)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Denver (KDEN)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44184
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Washington (WZDC)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Washington (WZDC)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67994
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Noticias (TELEP)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Noticias (TELEP)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67995
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo (TELE)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo (TELE)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67996
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo Sacramento (KCSO)" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo Sacramento (KCSO)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67997
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Tucson (KFTU)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Tucson (KFTU)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68003
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas San Antonio" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas San Antonio
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68005
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Philadelphia (WXFT)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Philadelphia (WXFT)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68006
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Dallas (KSTR)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Dallas (KSTR)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40707
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas New York (WFUT)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas New York (WFUT)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40706
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Miami (WAMI)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Miami (WAMI)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44183
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Los Angeles (KFTR)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Los Angeles (KFTR)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40705
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Austin (KTFO)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Austin (KTFO)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68007
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Sacramento" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Sacramento
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43097
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Atlanta (WUVG)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Atlanta (WUVG)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59670
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas (UNIHD)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas (UNIHD)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68008
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Unimas Phoenix (KFPH)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/unimas.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Unimas Phoenix (KFPH)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68009
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Green Valley (KUVE)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Green Valley (KUVE)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/59671
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Tlenovelas" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Tlenovelas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43110
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Los Angeles (KMEX) Â©" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Los Angeles (KMEX) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43111
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Houston (KXLN)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Houston (KXLN)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43104
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Austin (KAKW)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Austin (KAKW)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43106
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Network
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43114
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Dallas (KUVN)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Dallas (KUVN)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43109
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Chicago (WGBO)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Chicago (WGBO)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43107
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Atlanta (WUVG)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Atlanta (WUVG)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43101
+#EXTINF:-1 tvg-id="UNI.(WLTV).Miami,.FL.us" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Miami (WLTV) Â©" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Miami (WLTV) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/35572
+#EXTINF:-1 tvg-id="UNI.(WXTV).Teaneck,.NJ.us" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision New York (WXTV) Â©" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision New York (WXTV) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43113
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision San Francisco (KDTV)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision San Francisco (KDTV)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43115
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision San Antonio (KWEX)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision San Antonio (KWEX)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/40703
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Philadelphia (WUPV)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Philadelphia (WUPV)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44186
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Puerto Rico (WLII)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Puerto Rico (WLII)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/43105
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Phoenix (WXTV)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Phoenix (WXTV)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68010
+#EXTINF:-1 tvg-id="HGTV.Latin.America.SDTV.(Panregional).(HGTVSD).[1042].cr" tvg-name="á´œsá´€ ÊŸá´€á´› | HGTV HD" tvg-logo="http://209.126.82.213/Logos/hgtv-us.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | HGTV HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62492
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Univision Nashville (WLLC)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/univision.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Univision Nashville (WLLC)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/66964
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | NBC Sports Bay Area Plus" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_sports_bay_area_plus.png" group-title="USA",á´œsá´€ | NBC Sports Bay Area Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68023
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | NBC Sports Boston" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-sports-boston-us.png" group-title="USA",á´œsá´€ | NBC Sports Boston
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68024
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | NBC Sports Chicago Plus" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-sports-chicago-us.png" group-title="USA",á´œsá´€ | NBC Sports Chicago Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68025
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | NBC Sports Philadelphia Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/330px-NBC_Sports_Philadelphia.png" group-title="USA",á´œsá´€ | NBC Sports Philadelphia Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68027
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | NBC Sports Washington Plus" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-sports-washington-us.png" group-title="USA",á´œsá´€ | NBC Sports Washington Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68028
+#EXTINF:-1 tvg-id="Telemundo.(WNJU).Teterboro,.NJ.us" tvg-name="á´œsá´€ ÊŸá´€á´› | Telemundo New York (WNJU) Â©" tvg-logo="http://209.126.82.213/Logos/telemundo_este.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Telemundo New York (WNJU) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/29947
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="á´œsá´€ | CNBC World" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc_world.png" group-title="USA",á´œsá´€ | CNBC World
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68090
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="á´œsá´€ | Discovery Family Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png" group-title="USA",á´œsá´€ | Discovery Family Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68092
+#EXTINF:-1 tvg-id="AEEast.us" tvg-name="á´œsá´€ | A&E" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="USA",á´œsá´€ | A&E
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/68160
+#EXTINF:-1 tvg-id="PE - ATV +" tvg-name="á´˜á´‡ | ATV Plus Â©" tvg-logo="http://209.126.82.213/Logos/atvplus-pe.png" group-title="PERU",á´˜á´‡ | ATV Plus Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/72120
+#EXTINF:-1 tvg-id="TV.Chile.es" tvg-name="á´„ÊŸ | TV Chile Ò“Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png" group-title="CHILE",á´„ÊŸ | TV Chile Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/72196
+#EXTINF:-1 tvg-id="Nextv_HD_pa" tvg-name="á´˜á´€ | Nex Canal 21 Ò“Êœá´…." tvg-logo="https://www.lyngsat.com/logo/tv/nn/nex_tv_pa.png" group-title="PANAMA",á´˜á´€ | Nex Canal 21 Ò“Êœá´….
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/72596
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´…á´‡á´˜ | Sky Sports 16 Êœá´… (á´x) ÊŸá´€ÊŸÉªÉ¢á´€" tvg-logo="http://209.126.82.213/Logos/sky_mx_sports.png" group-title="DEPORTES",á´…á´‡á´˜ | Sky Sports 16 Êœá´… (á´x) ÊŸá´€ÊŸÉªÉ¢á´€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/72160
+#EXTINF:-1 tvg-id="NBA.League.Pass/MLS.Direct.Kick.(TEAM10).ca" tvg-name="É´Ê™á´€ | NBA League Pass 10 Êœá´…" tvg-logo="http://209.126.82.213/Ligas/NBA-League.png" group-title="NBA (EVENTOS PPV)",É´Ê™á´€ | NBA League Pass 10 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73035
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="á´„á´€ | TSN 5 Êœá´…" tvg-logo="http://144.217.91.146/Logos/Canada/tsn-5-ca.png" group-title="CANADA",á´„á´€ | TSN 5 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63585
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-name="á´€Ê€É¢ | ESPN 1 Êœá´…" tvg-logo="http://209.126.82.213/Logos/espn-us.png" group-title="ARGENTINA",á´€Ê€É¢ | ESPN 1 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73195
+#EXTINF:-1 tvg-id="" tvg-name="á´˜á´‡ | Movistar Deportes Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/movistar-deportes-pe.png" group-title="PERU",á´˜á´‡ | Movistar Deportes Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73338
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Los Simpsons" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Los Simpsons
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63570
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="á´…á´‡á´˜ | M+ Liga de Campeones Ò“Êœá´… H265" tvg-logo="http://209.126.82.213/Logos/mplus-liga-de-campeones-es.png" group-title="DEPORTES",á´…á´‡á´˜ | M+ Liga de Campeones Ò“Êœá´… H265
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74170
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Austin" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc@2x.png" group-title="USA",á´œsá´€ | ABC Austin
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74807
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Seattle" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/abc/abc@2x.png" group-title="USA",á´œsá´€ | ABC Seattle
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74808
+#EXTINF:-1 tvg-id="11" tvg-name="á´œsá´€ | VH1 HD Â©  " tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1-us.png" group-title="USA",á´œsá´€ | VH1 HD Â©  
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74813
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Universo East HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_universo_este.png" group-title="USA",á´œsá´€ | Universo East HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74814
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="á´…á´‡á´˜ | ESPN 4 Ò“Êœá´… (á´„á´) á´‡É´á´„á´á´…á´‡Ê€" tvg-logo="http://209.126.82.213/Logos/ESPN4_Logo.png" group-title="DEPORTES",á´…á´‡á´˜ | ESPN 4 Ò“Êœá´… (á´„á´) á´‡É´á´„á´á´…á´‡Ê€
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74817
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Jhonny Bravo" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Jhonny Bravo
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63781
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="á´x | Azteca 7" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="MEXICO",á´x | Azteca 7
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74964
+#EXTINF:-1 tvg-id="CO - Caracol HD" tvg-name="á´„á´ | Caracol" tvg-logo="http://209.126.82.213/Logos/caracol-tv-co.png" group-title="COLOMBIA",á´„á´ | Caracol
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/64120
+#EXTINF:-1 tvg-id="CO - Citytv" tvg-name="á´„á´ | City TV Â©" tvg-logo="http://209.126.82.213/Logos/city-tv-co.png" group-title="COLOMBIA",á´„á´ | City TV Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/35506
+#EXTINF:-1 tvg-id="Win.Sports+.(Win.Sports.P.HD).co" tvg-name="á´„á´ | Win Sports Plus Êœá´…." tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="COLOMBIA",á´„á´ | Win Sports Plus Êœá´….
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/64084
+#EXTINF:-1 tvg-id="CO - Win Sports HD" tvg-name="á´„á´ | Win Sports Êœá´… Â©" tvg-logo="http://209.126.82.213/Logos/win_sports_co.png" group-title="COLOMBIA",á´„á´ | Win Sports Êœá´… Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/62934
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="á´„ÊŸ | ESPN Êœá´…" tvg-logo="http://144.217.91.146/Logos/ClaroNorte/ClaroNorte/espn-us.png" group-title="CHILE",á´„ÊŸ | ESPN Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/75292
+#EXTINF:-1 tvg-id="TV.Chile.es" tvg-name="á´„ÊŸ | TV Chile Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png" group-title="CHILE",á´„ÊŸ | TV Chile Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/75388
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="á´„ÊŸ | Canal 13 Ò“Êœá´…" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png" group-title="CHILE",á´„ÊŸ | Canal 13 Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73663
+#EXTINF:-1 tvg-id="CO DIRECTV Sports Colombia" tvg-name="á´…á´‡á´˜ | Directv Sports 1 Êœá´… (á´„á´) Â©" tvg-logo="http://209.126.82.213/Logos/DirecTV_Sports.png" group-title="DEPORTES",á´…á´‡á´˜ | Directv Sports 1 Êœá´… (á´„á´) Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/75569
+#EXTINF:-1 tvg-id="BallySportsArizona.us" tvg-name="á´œsá´€ | Bally Sports Arizona" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-arizona-2.png" group-title="USA",á´œsá´€ | Bally Sports Arizona
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67947
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="á´œsá´€ | Bally Sports Detroit" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-detroit-3.png" group-title="USA",á´œsá´€ | Bally Sports Detroit
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67948
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="á´œsá´€ | Bally Sports Florida" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-florida-19.png" group-title="USA",á´œsá´€ | Bally Sports Florida
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67949
+#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" tvg-name="á´œsá´€ | Bally Sports Great Lakes" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sports-great-lakes-2531.png" group-title="USA",á´œsá´€ | Bally Sports Great Lakes
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67950
+#EXTINF:-1 tvg-id="BallySportsIndiana.us" tvg-name="á´œsá´€ | Bally Sports Indiana" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-indiana-45.png" group-title="USA",á´œsá´€ | Bally Sports Indiana
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67951
+#EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-name="á´œsá´€ | Bally Sports Kansas City" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sports-midwest-kansas-city-2538.png" group-title="USA",á´œsá´€ | Bally Sports Kansas City
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67952
+#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-name="á´œsá´€ | Bally Sports MidWest" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-midwest-982.png" group-title="USA",á´œsá´€ | Bally Sports MidWest
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67953
+#EXTINF:-1 tvg-id="BallySportsNewOrleans.us" tvg-name="á´œsá´€ | Bally Sports New Orleans" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-new-orleans-8.png" group-title="USA",á´œsá´€ | Bally Sports New Orleans
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67954
+#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="á´œsá´€ | Bally Sports North" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-north-83.png" group-title="USA",á´œsá´€ | Bally Sports North
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67955
+#EXTINF:-1 tvg-id="BallySportsOhio.us" tvg-name="á´œsá´€ | Bally Sports Ohio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-ohio-20.png" group-title="USA",á´œsá´€ | Bally Sports Ohio
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67957
+#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="á´œsá´€ | Bally Sports Oklahoma" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-oklahoma-80.png" group-title="USA",á´œsá´€ | Bally Sports Oklahoma
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67958
+#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-name="á´œsá´€ | Bally Sports San Diego" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-san-diego-47.png" group-title="USA",á´œsá´€ | Bally Sports San Diego
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67959
+#EXTINF:-1 tvg-id="BallySportsSoCal.us" tvg-name="á´œsá´€ | Bally Sports Socal" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sports-so-cal-2539.png" group-title="USA",á´œsá´€ | Bally Sports Socal
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67960
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="á´œsá´€ | Bally Sports South" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-south-82.png" group-title="USA",á´œsá´€ | Bally Sports South
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67961
+#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="á´œsá´€ | Bally Sports SouthEast" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-southeast-24.png" group-title="USA",á´œsá´€ | Bally Sports SouthEast
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67962
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="á´œsá´€ | Bally Sports SouthWest" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-southwest-9.png" group-title="USA",á´œsá´€ | Bally Sports SouthWest
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67963
+#EXTINF:-1 tvg-id="BallySportsSun.us" tvg-name="á´œsá´€ | Bally Sports Sun" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-sun-22.png" group-title="USA",á´œsá´€ | Bally Sports Sun
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67964
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="á´œsá´€ | Bally Sports West" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-west-40.png" group-title="USA",á´œsá´€ | Bally Sports West
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67965
+#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="á´œsá´€ | Bally Sports Wisconsin" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-wisconsin-10.png" group-title="USA",á´œsá´€ | Bally Sports Wisconsin
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/67966
+#EXTINF:-1 tvg-id="TV+.bg" tvg-name="á´„ÊŸ | TV+ Ò“Êœá´…" tvg-logo="http://144.217.91.146/Logos/Chile/tv-plus-cl.png" group-title="CHILE",á´„ÊŸ | TV+ Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73667
+#EXTINF:-1 tvg-id="SyfyMX" tvg-name="á´„ÉªÉ´á´‡ | SyFy Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/syfy_us_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | SyFy Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76351
+#EXTINF:-1 tvg-id="UniversalCinema" tvg-name="á´„ÉªÉ´á´‡ | Universal Cinema Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-cinema-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Cinema Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73994
+#EXTINF:-1 tvg-id="UniversalCinema" tvg-name="á´„ÉªÉ´á´‡ | Universal Cinema Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-cinema-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Cinema Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73998
+#EXTINF:-1 tvg-id="UniversalComedy" tvg-name="á´„ÉªÉ´á´‡ | Universal Comedy Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-comedy-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Comedy Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76353
+#EXTINF:-1 tvg-id="UniversalCrime" tvg-name="á´„ÉªÉ´á´‡ | Universal Crime Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-crime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Crime Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74000
+#EXTINF:-1 tvg-id="UniversalCrime" tvg-name="á´„ÉªÉ´á´‡ | Universal Crime Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-crime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Crime Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73997
+#EXTINF:-1 tvg-id="UniversalCrime" tvg-name="á´„ÉªÉ´á´‡ | Universal Crime " tvg-logo="http://209.126.82.213/Logos/universal-crime-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Crime 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76356
+#EXTINF:-1 tvg-id="CO - Discovery Turbo" tvg-name="á´„á´œÊŸá´› | Discovery Turbo Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery_turbo_us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Discovery Turbo Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76385
+#EXTINF:-1 tvg-id="NationalGeographicCentro.us" tvg-name="á´„á´œÊŸá´› | National Geographic Êœá´…" tvg-logo="http://209.126.82.213/Logos/nat_geo_us_hd.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | National Geographic Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/44463
+#EXTINF:-1 tvg-id="21.Junior.al" tvg-name="á´˜á´€ |  Nex Canal 21 Â©" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nex_tv_pa.png" group-title="PANAMA",á´˜á´€ |  Nex Canal 21 Â©
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/74818
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="á´„ÊŸ | 13c Ò“Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/num/13c-cl.png" group-title="CHILE",á´„ÊŸ | 13c Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73661
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="á´„ÊŸ | 13c Êœá´…" tvg-logo="https://www.lyngsat.com/logo/tv/num/13c-cl.png" group-title="CHILE",á´„ÊŸ | 13c Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/64085
+#EXTINF:-1 tvg-id="Rec.TV.(RECTV).us" tvg-name="á´„ÊŸ | Rec TV Ò“Êœá´…" tvg-logo="https://cdn.mitvstatic.com/channels/cl_rec-tv_m.png" group-title="CHILE",á´„ÊŸ | Rec TV Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73665
+#EXTINF:-1 tvg-id="CL | CL - ESPN 2" tvg-name="á´„ÊŸ | ESPN 2 Êœá´…" tvg-logo="http://209.126.82.213/Logos/espn-2-us.png" group-title="CHILE",á´„ÊŸ | ESPN 2 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76927
+#EXTINF:-1 tvg-id="CL | CL - ESPN 3" tvg-name="á´„ÊŸ | ESPN 3 Êœá´…" tvg-logo="http://209.126.82.213/Logos/Claro_Americas_Norte/espn-3-america-latina-us.png" group-title="CHILE",á´„ÊŸ | ESPN 3 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76928
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | The Big Bang Theory" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | The Big Bang Theory
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63783
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="á´„ÉªÉ´á´‡ | FX" tvg-logo="http://209.126.82.213/Logos/fx_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | FX
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77007
+#EXTINF:-1 tvg-id="UniversalPremier" tvg-name="á´„ÉªÉ´á´‡ | Universal Premiere Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-premiere-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Premiere Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73999
+#EXTINF:-1 tvg-id="UniversalPremier" tvg-name="á´„ÉªÉ´á´‡ | Universal Premiere Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/universal-premiere-us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Premiere Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73996
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="á´„á´œÊŸá´› | Discovery Familia Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery_familia_us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Discovery Familia Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77008
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„á´œÊŸá´› | Discovery Theather " tvg-logo="http://209.126.82.213/Logos/discovery_hd_theater_lam.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Discovery Theather 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/63923
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„á´œÊŸá´› | History 2" tvg-logo="http://209.126.82.213/Logos/h2-latinoamerica-us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | History 2
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/66492
+#EXTINF:-1 tvg-id="Atreseries.(ATRES).us" tvg-name="á´‡É´á´› | A3Series Êœá´…" tvg-logo="http://209.126.82.213/Logos/atreseries-es.png" group-title="ENTRETENIMIENTO LATINO",á´‡É´á´› | A3Series Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/72257
+#EXTINF:-1 tvg-id="RPC.TelevisiÃ³n.Canal.4.(RPCPAN).pa" tvg-name="á´˜á´€ | RPC Canal 4 Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/rpc-tv-pa.png" group-title="PANAMA",á´˜á´€ | RPC Canal 4 Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/76934
+#EXTINF:-1 tvg-id="CableNoticias.(CNOTICIAS).co" tvg-name="á´„á´ | Cablenoticias Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/cablenoticias-co.png" group-title="COLOMBIA",á´„á´ | Cablenoticias Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73668
+#EXTINF:-1 tvg-id="Teleislas.(Teleislas).co" tvg-name="á´„á´ | Teleislas HD" tvg-logo="https://teleislas.com.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo-768x219.png" group-title="COLOMBIA",á´„á´ | Teleislas HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73676
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="á´˜á´‡ | TVpe" tvg-logo="http://209.126.82.213/Logos/tv-peru-pe.png" group-title="PERU",á´˜á´‡ | TVpe
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77087
+#EXTINF:-1 tvg-id="CO - A&E Mundo HD" tvg-name="á´„ÉªÉ´á´‡ | A&E Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/ae_us.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | A&E Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77158
+#EXTINF:-1 tvg-id="DHE.us" tvg-name="á´„ÉªÉ´á´‡ | DHE Êœá´…" tvg-logo="http://209.126.82.213/Logos/dhe.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | DHE Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77159
+#EXTINF:-1 tvg-id="DHECO" tvg-name="á´„ÉªÉ´á´‡ | DHE " tvg-logo="http://209.126.82.213/Logos/dhe.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | DHE 
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77160
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="á´„ÉªÉ´á´‡ | Golden Plus" tvg-logo="http://209.126.82.213/Logos/golden-plus-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77163
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="á´„ÉªÉ´á´‡ | Golden Plus Êœá´…" tvg-logo="http://209.126.82.213/Logos/golden-plus-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Plus Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77162
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="á´„ÉªÉ´á´‡ | Golden Plus Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/golden-plus-mx.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Golden Plus Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77161
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="á´„ÉªÉ´á´‡ | HBO Êœá´…" tvg-logo="http://209.126.82.213/Logos/hbo_latinoamerica_hd.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | HBO Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77164
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="á´„ÉªÉ´á´‡ | Studio Universal" tvg-logo="http://209.126.82.213/Logos/studio_universal_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Studio Universal
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77173
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="á´„ÉªÉ´á´‡ | TBS Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/tbs_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TBS Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77176
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="á´„ÉªÉ´á´‡ | TBS Êœá´…" tvg-logo="http://209.126.82.213/Logos/tbs_east.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | TBS Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77177
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="á´„ÉªÉ´á´‡ | Universal Channel" tvg-logo="http://209.126.82.213/Logos/universal_channel_global.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Universal Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77180
+#EXTINF:-1 tvg-id="" tvg-name="á´„á´œÊŸá´› | Discovery Science Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/discovery-science-latinoamerica-us.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Discovery Science Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77194
+#EXTINF:-1 tvg-id="Film&ArtsMX" tvg-name="á´„á´œÊŸá´› | Film & Arts Êœá´…" tvg-logo="http://209.126.82.213/Logos/film_and_arts_lam.png" group-title="CULTURA LATINO",á´„á´œÊŸá´› | Film & Arts Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77195
+#EXTINF:-1 tvg-id="Telefe.cl" tvg-name="á´€Ê€É¢ | Telefe Ò“Êœá´…" tvg-logo="http://209.126.82.213/Logos/telefe-ar.png" group-title="ARGENTINA",á´€Ê€É¢ | Telefe Ò“Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77198
+#EXTINF:-1 tvg-id="BallySportsArizonaPlus.us" tvg-name="á´œsá´€ | Bally Sports Arizona Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sport-arizona-plus-2534.png" group-title="USA",á´œsá´€ | Bally Sports Arizona Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77285
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="á´œsá´€ | Bally Sports Cincinati" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-ohio-cincinnati-1648.png" group-title="USA",á´œsá´€ | Bally Sports Cincinati
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77286
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="á´œsá´€ | Bally Sports Detroit Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sport-detroit-plus-2533.png" group-title="USA",á´œsá´€ | Bally Sports Detroit Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77287
+#EXTINF:-1 tvg-id="BallySportsSoutheastSouthCarolina.us" tvg-name="á´œsá´€ | Bally Sports Kansas City Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sports-midwest-kansas-city-2538.png" group-title="USA",á´œsá´€ | Bally Sports Kansas City Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77288
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Bally Sports MidWest Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-midwest-982.png" group-title="USA",á´œsá´€ | Bally Sports MidWest Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77289
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Bally Sports Ohio Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bally-sport-ohio-plus-2532.png" group-title="USA",á´œsá´€ | Bally Sports Ohio Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77290
+#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-name="á´œsá´€ | Bally Sports San Diego Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-san-diego-47.png" group-title="USA",á´œsá´€ | Bally Sports San Diego Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77291
+#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="á´œsá´€ | Bally Sports South Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sports-south-82.png" group-title="USA",á´œsá´€ | Bally Sports South Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77292
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Bally Sports Wisconsin Plus" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fox-sport-wisconsin-10.png" group-title="USA",á´œsá´€ | Bally Sports Wisconsin Plus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77293
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="Ê™Ê€ | ESPN 3 Êœá´…" tvg-logo="http://209.126.82.213/Logos/espn-3-america-latina-us.png" group-title="BRASIL",Ê™Ê€ | ESPN 3 Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77420
+#EXTINF:-1 tvg-id="MegaTV.us" tvg-name="á´œsá´€ ÊŸá´€á´› | Mega TV Miami" tvg-logo="http://209.126.82.213/Logos/megatv.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Mega TV Miami
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77446
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | Viendo Movies" tvg-logo="https://miamifilmfestival.com/wp-content/uploads/2017/10/Viendo-Movies-Logo_black-copy.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Viendo Movies
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77636
+#EXTINF:-1 tvg-id="PE - Latina" tvg-name="á´˜á´‡ | Latina Êœá´…" tvg-logo="http://209.126.82.213/Logos/latina-pe.png" group-title="PERU",á´˜á´‡ | Latina Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77648
+#EXTINF:-1 tvg-id="AR - AmÃ©rica TV" tvg-name="á´€Ê€É¢ | America TV Êœá´…" tvg-logo="http://209.126.82.213/Logos/america-tv-ar.png" group-title="ARGENTINA",á´€Ê€É¢ | America TV Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/77197
+#EXTINF:-1 tvg-id="" tvg-name="É´Éªá´„ | Canal 13" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-13---viva-nicaragua-1597.png" group-title="NICARAGUA",É´Éªá´„ | Canal 13
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78076
+#EXTINF:-1 tvg-id="" tvg-name="É´Éªá´„ | Canal 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal2_ni.png" group-title="NICARAGUA",É´Éªá´„ | Canal 2
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78077
+#EXTINF:-1 tvg-id="" tvg-name="É´Éªá´„ | Canal 12" tvg-logo="http://www.canal12.com.ni/assets/logo_horizontal-b7fe143ebd9e9dab2e72ffea436db26fce21c81b7ae6ac430ede875f5df30657.png" group-title="NICARAGUA",É´Éªá´„ | Canal 12
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78078
+#EXTINF:-1 tvg-id="" tvg-name="á´„á´œ | ACN" tvg-logo="http://www.acn.cu/images/banners/logoacn.png" group-title="CUBA",á´„á´œ | ACN
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78079
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision Philadelphia
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78459
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision Phoenix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision Phoenix
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78460
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision Raleight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision Raleight
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78461
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision Sacramento" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision Sacramento
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78462
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision Salt Lake" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision Salt Lake
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78463
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision San Antonio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision San Antonio
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78464
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ ÊŸá´€á´› | Galavision San Francisco" tvg-logo="http://miarea.vip:8080/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="USA LATINO",á´œsá´€ ÊŸá´€á´› | Galavision San Francisco
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78465
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Spectrum SportsNet LA Dodgers" tvg-logo="http://209.126.82.213/Logos/spectrum-sportsnet-us.png" group-title="USA",á´œsá´€ | Spectrum SportsNet LA Dodgers
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78514
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | Spectrum SportsNet LA Lakers" tvg-logo="http://209.126.82.213/Logos/spectrum-sportsnet-us.png" group-title="USA",á´œsá´€ | Spectrum SportsNet LA Lakers
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78515
+#EXTINF:-1 tvg-id="ABC.(WSB).Atlanta,.GA.us" tvg-name="á´œsá´€ | ABC Atlanta (WSB)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Atlanta (WSB)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78579
+#EXTINF:-1 tvg-id="ABC.(WSOC).Charlotte,.NC.us" tvg-name="á´œsá´€ | ABC Charlotte (WSOC)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Charlotte (WSOC)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78583
+#EXTINF:-1 tvg-id="ABC.(WLS).Chicago,.IL.us" tvg-name="á´œsá´€ | ABC Chicago (WLS)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Chicago (WLS)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78584
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Connecticut" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Connecticut
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78586
+#EXTINF:-1 tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-name="á´œsá´€ | ABC Dallas (WFAA)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Dallas (WFAA)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78587
+#EXTINF:-1 tvg-id="ABC.(KZCO).Denver,.CO.us" tvg-name="á´œsá´€ | ABC Denver (KZCO)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Denver (KZCO)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78588
+#EXTINF:-1 tvg-id="ABC.(WXYZ).Detroit,.MI.us" tvg-name="á´œsá´€ | ABC Detroit (WXYZ)" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Detroit (WXYZ)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78589
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Durham" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Durham
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78590
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Fresno" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Fresno
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78591
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC houston" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC houston
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78592
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Indianapolis" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Indianapolis
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78593
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Kansas City" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Kansas City
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78594
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Los Angeles" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Los Angeles
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78596
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Miami" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Miami
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78597
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Milwaukee" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Milwaukee
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78598
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Nashville" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Nashville
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78599
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC New York" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC New York
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78600
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Orlando" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Orlando
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78602
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Philadelphia" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Philadelphia
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78603
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Phoenix" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Phoenix
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78604
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Pittsburgh" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Pittsburgh
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78605
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Sacramento" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Sacramento
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78606
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC Salt lake city" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC Salt lake city
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78607
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC San Antonio" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC San Antonio
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78608
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | ABC San Diego" tvg-logo="http://209.126.82.213/Logos/abc_us.png" group-title="USA LOCAL",á´œsá´€ | ABC San Diego
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78609
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Baltimore" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Baltimore
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78611
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Boston" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Boston
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78612
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Charlotte" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Charlotte
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78613
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Chicago" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Chicago
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78614
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Columbus" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Columbus
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78615
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Dallas" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Dallas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78616
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Dallas" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Dallas
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78617
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Denver" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Denver
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78618
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Detroit" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Detroit
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78619
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Greensboro" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Greensboro
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78620
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Hartford" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Hartford
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78621
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Hartford" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Hartford
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78622
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Houston" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Houston
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78623
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Jacksonville" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Jacksonville
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78624
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Kansas City" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Kansas City
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78625
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Kansas City" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Kansas City
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78626
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Miami" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Miami
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78627
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Milwaukee" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Milwaukee
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78628
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Milwaukee" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Milwaukee
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78629
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Minneapolis" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Minneapolis
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78630
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Nashville" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Nashville
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78631
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS New York" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS New York
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78632
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Orlando" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Orlando
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78633
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Philadelphia" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Philadelphia
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78634
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Phoenix" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Phoenix
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78635
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Pittsburgh" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Pittsburgh
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78636
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Sacramento" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Sacramento
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78637
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Sacramento" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Sacramento
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78638
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS San Diego" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS San Diego
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78640
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Seattle" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Seattle
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78641
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Seattle" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Seattle
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78642
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS St Louis" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS St Louis
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78643
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Tampa" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Tampa
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78644
+#EXTINF:-1 tvg-id="" tvg-name="á´œsá´€ | CBS Washington" tvg-logo="http://209.126.82.213/Logos/cbs_us.png" group-title="USA LOCAL",á´œsá´€ | CBS Washington
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78645
+#EXTINF:-1 tvg-id="MX | MX - ESPN 2" tvg-name="á´…á´‡á´˜ | ESPN 1 Ò“Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/espn1.png" group-title="DEPORTES",á´…á´‡á´˜ | ESPN 1 Ò“Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/78792
+#EXTINF:-1 tvg-id="Horror.Channel..be" tvg-name="á´„ÉªÉ´á´‡ | Horrorfy Êœá´…" tvg-logo="http://209.126.82.213/Logos/horrorfy.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | Horrorfy Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/73691
+#EXTINF:-1 tvg-id="" tvg-name="á´…á´‡á´˜ | Fox Sports Premium Ò“Êœá´… (á´x)" tvg-logo="http://209.126.82.213/Logos/fox-sports-premiumpng-us-mx.png" group-title="DEPORTES",á´…á´‡á´˜ | Fox Sports Premium Ò“Êœá´… (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79179
+#EXTINF:-1 tvg-id="" tvg-name="á´…á´‡á´˜ | Fox Sports Premium (á´x)" tvg-logo="http://209.126.82.213/Logos/fox-sports-premiumpng-us-mx.png" group-title="DEPORTES",á´…á´‡á´˜ | Fox Sports Premium (á´x)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79180
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Cine Êœá´…" tvg-logo="" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Cine Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79183
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Clasico Êœá´…" tvg-logo="" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Clasico Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79184
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Docu Êœá´…" tvg-logo="" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Docu Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79185
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Familia Êœá´…" tvg-logo="" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Familia Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79186
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Fiesta Êœá´…" tvg-logo="" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Fiesta Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79187
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Kidz Êœá´…" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo-300x124.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Kidz Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79188
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Macho Êœá´…" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Logo-Ultra-Macho-300x120.jpg" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Macho Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79189
+#EXTINF:-1 tvg-id="" tvg-name="á´„ÉªÉ´á´‡ | ULTRA Mex Êœá´…" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-Mex-Logo-300x112.png" group-title="CINE LATINO",á´„ÉªÉ´á´‡ | ULTRA Mex Êœá´…
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/79190
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Alerta Aeropuerto HD" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Alerta Aeropuerto HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117805
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cero en Conducta HD" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cero en Conducta HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117806
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saint Seiya Torneo Galactico (1-40)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saint Seiya Torneo Galactico (1-40)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117807
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saint Seiya Las 12 Casas (41-73)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saint Seiya Las 12 Casas (41-73)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117808
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saint Seiya Asgard (74-99)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saint Seiya Asgard (74-99)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117809
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saint Seiya Poseidon (100-114)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saint Seiya Poseidon (100-114)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117810
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Saint Seiya Hades (115-145)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Saint Seiya Hades (115-145)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117811
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | La Casa de los Dibujos" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | La Casa de los Dibujos
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117812
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | La Liga del Dragon VHSRip" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | La Liga del Dragon VHSRip
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117813
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cantinflas Parte 1 (18 Peliculas)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cantinflas Parte 1 (18 Peliculas)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117814
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Cantinflas Parte 2 (19 Peliculas)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Cantinflas Parte 2 (19 Peliculas)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117815
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Chespirito (1970)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Chespirito (1970)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117816
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Chespirito (1980)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Chespirito (1980)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117817
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | Chespirito (1981)" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | Chespirito (1981)
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117818
+#EXTINF:-1 tvg-id="" tvg-name="24Êœ | La Familia Ingalls HD" tvg-logo="http://209.126.82.213/Logos/247.png" group-title="24 HORAS",24Êœ | La Familia Ingalls HD
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/117819
+#EXTINF:-1 tvg-id="CO - Disney Channel" tvg-name="á´‹Éªá´…s | Disney Channel" tvg-logo="http://209.126.82.213/Logos/disney-channel-us.png" group-title="INFANTILES LATINO",á´‹Éªá´…s | Disney Channel
+http://tv-cool.com:25461/JoSeLuisAreaLatina/cpSAH06v/126735
